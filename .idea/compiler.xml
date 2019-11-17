@@ -9,7 +9,7 @@
         <module name="ExpensesTracker" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11.3">
       <module name="ExpensesTracker" target="1.5" />
     </bytecodeTargetLevel>
   </component>
