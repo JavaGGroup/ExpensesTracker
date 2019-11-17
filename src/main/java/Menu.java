@@ -1,3 +1,5 @@
+//poczatkowa wersje tej klasy bo jeszcze do konca nie wiem jak to zrobic :(
+
 import java.util.*;
 class Menu {
     public void display_menu() {
